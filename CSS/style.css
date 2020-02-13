@@ -250,6 +250,7 @@ footer li {
     }
 
     .header_logo {
+        margin-left: .5em;
         height: 48px;
         margin-right: 0.5em;
     }
